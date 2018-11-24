@@ -4,7 +4,7 @@
 Created a flashcard app which answer a hardcoded question when the question is tapped.
 ### App Walk-though
 
-<img src="https://github.com/JorgeCedeno98/Lab-1---Answer-This-/blob/master/Lab%201%20-%20Answer%20This!.mp4" width=200><br>
+<img src="https://imgur.com/a/Jsp8Fhn" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
